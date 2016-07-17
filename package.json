@@ -1,0 +1,13 @@
+{
+	"author": "Matthew Jackson <mwj8410@gmail.com>",
+	"dependencies": {},
+	"description": "Provides code guidelines for all Phaesynthe projects.",
+	"devDependencies": {},
+	"main": "",
+	"name": "Phae_guidelines",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/Phaesynthe/Phae_guidelines.git"
+	},
+	"version": "0.1.0"
+}
