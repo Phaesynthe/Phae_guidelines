@@ -20,7 +20,7 @@ module.exports = {
     "linebreak-style": [ "error", "unix" ],
     "max-depth": [ "error", 6 ],
     "no-alert": "error",
-    "no-console": [ "error", { allow: ["warn", "error"] } ],
+    // "no-console": [ "error", { allow: ["warn", "error"] } ],
     "no-debugger": "error",
     "no-dupe-args": "error",
     "no-dupe-keys": "error",
