@@ -1,3 +1,4 @@
+
 module.exports = {
   "env": {
     "browser": true,
@@ -7,7 +8,9 @@ module.exports = {
   },
   "extends": "eslint:recommended",
   "globals": {
-  	"angular": false,
+  // 	"angular": false,
+    "after": true,
+  	"before": true,
   	"define": false,
   	"describe": true,
   	"it": true
