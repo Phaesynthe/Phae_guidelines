@@ -8,15 +8,15 @@ module.exports = {
   },
   'extends': 'eslint:recommended',
   'globals': {
-  	'angular': true,
+    'angular': true,
     'after': true,
-  	'before': true,
-  	'define': false,
-  	'describe': true,
-  	'it': true,
-  	'React': true,
-  	'ReactDOM': true
-	},
+    'before': true,
+    'define': false,
+    'describe': true,
+    'it': true,
+    'React': true,
+    'ReactDOM': true
+  },
   'parserOptions': {
     'ecmaVersion': 6,
     'sourceType': 'module'
