@@ -50,7 +50,7 @@ jspm_packages
 # ##### ##### ##### ##### #
 #           IDEs          #
 # ##### ##### ##### ##### #
-.idea       # Jetbrains IDEs
-.netbeans   # Netbeans
+.idea
+.netbeans
 nbproject
-.vscode     # Visual studio
+.vscode
